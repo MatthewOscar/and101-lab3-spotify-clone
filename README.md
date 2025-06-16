@@ -10,7 +10,7 @@ Time spent: **1.5** hours spent in total
 
 **Spotify Clone** is an android app that allows the user to enter a username and password. The app will also display a button that the user could tap after entering their information. The colors and drawables represent the branding of the Spotify app.
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **📱🎵🟢**
 
 ## Application Features
 
@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **[Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_US)** app:
 
-<img src='spotify-screen.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='spotify-screen.png' title='Chosen Screenshot' width='54%' alt='Chosen Screenshot' />
 
 ## Video Demo
 
