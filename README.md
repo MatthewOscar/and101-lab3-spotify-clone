@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **[Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_US)** app:
 
-<img src='spotify-screen.png' title='Chosen Screenshot' width='54%' alt='Chosen Screenshot' />
+<img src='spotify-screen.png' title='Chosen Screenshot' width='52%' alt='Chosen Screenshot' />
 
 ## Video Demo
 
